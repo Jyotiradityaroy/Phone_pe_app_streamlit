@@ -16,7 +16,7 @@ page = st.sidebar.radio("Go to", ["🏠 Home", "📊 Dataset Explorer", "📈 Vi
 # ------------------- PAGE 1: HOME -------------------
 if page == "🏠 Home":
 
-    st.image("Screenshot 2025-07-08 at 9.33.16 PM.png", use_container_width=True)
+    st.image("phone_peimage.png", use_container_width=True)
 
     st.title("📊 PhonePe Pulse Analysis")
 
